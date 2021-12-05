@@ -7,15 +7,17 @@
     font-family: 'Times New Roman', Times, serif;
 }
 #home {
-    background-color: azure;
+    background-color: #EBDEF0;
     padding-bottom: 85px;
 }
 img {
     width: 100%;
+    padding-top: 50px;
     padding-bottom: 40px;
 }
 .headings {
     text-align: center;
+    color: #1C2833;
 }
 .lines {
     width: 10%;
@@ -25,13 +27,26 @@ img {
     margin-right: auto;
 }
 .jumbotron {
-    background-color: powderblue;
+    background-color: #A3E4D7;
     padding-bottom: 100px;
-    margin: 2.5rem;
+    margin: 3rem;
 }
 
 .card {
     width: 18rem;
     margin: 0.5rem;
     max-width: calc(26% - 30px);
+}
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+#footer {
+    background-color: #AAB7B8;
+}
+hr.light {
+    border-top: 1px solid #d5d5d5;
+    width: 100%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
 }
