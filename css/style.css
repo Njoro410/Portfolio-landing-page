@@ -27,7 +27,10 @@ img {
 .jumbotron {
     background-color: powderblue;
     padding-bottom: 100px;
+    margin: 2.5rem;
 }
-.left {
-    border-right: 5px black;
+
+.card {
+    width: 18rem;
+    margin: 0.2rem;
 }
