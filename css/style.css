@@ -1,0 +1,26 @@
+.text1 {
+    font-size: 52px;
+    margin: 20px 0;
+    color: #1ebba3;
+    padding: 90px 0;
+    padding-left: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#home {
+    background-color: azure;
+    padding-bottom: 85px;
+}
+img {
+    width: 100%;
+    padding-bottom: 80px;
+}
+.headings {
+    text-align: center;
+}
+.lines {
+    width: 10%;
+    height: 10%;
+    border-bottom:5px solid #1ebba3;
+    margin-left: auto;
+    margin-right: auto;
+}
