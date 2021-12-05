@@ -28,3 +28,6 @@ img {
     background-color: powderblue;
     padding-bottom: 100px;
 }
+.left {
+    border-right: 5px black;
+}
