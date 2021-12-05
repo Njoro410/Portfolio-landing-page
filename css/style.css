@@ -1,13 +1,13 @@
 .navbar-custom {
-    background-color: #EBDEF0;
+    background-color: #F2D7D5 ;
 }
 .text1 {
     font-size: 52px;
-    margin: 20px 0;
+    margin-top: 20%;
     color: #1ebba3;
     padding: 90px 0;
     padding-left: 80px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Optima, New Century Schoolbook, TeX Gyre Schola, serif;
 }
 #home {
     background-color: #EBDEF0;
@@ -32,7 +32,7 @@ img {
     margin-right: auto;
 }
 .jumbotron {
-    background-color: #A3E4D7;
+    background-color: #F5B7B1;
     padding-bottom: 100px;
     margin: 3rem;
 }
@@ -40,7 +40,7 @@ img {
 .card {
     width: 18rem;
     margin: 0.5rem;
-    max-width: calc(26% - 30px);
+    
 }
 .card-img-top {
     width: 100%;
@@ -50,8 +50,9 @@ img {
     background-color: #AAB7B8;
 }
 hr.light {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #050000 ;
     width: 100%;
     margin-top: .8rem;
     margin-bottom: 1rem;
+    
 }
