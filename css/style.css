@@ -24,3 +24,7 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+.jumbotron {
+    background-color: powderblue;
+    padding-bottom: 100px;
+}
